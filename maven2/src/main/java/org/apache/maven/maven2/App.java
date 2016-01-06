@@ -16,8 +16,5 @@ public class App
         if(true){
         	System.out.println("true");
         }
-        else{
-        	System.out.println("false");
-        }
     }
 }
